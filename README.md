@@ -2,7 +2,7 @@
 
 - Unconstrained problems
 
-- Constraint problems
+- Constrained problems
 
 - Line search methods
 
