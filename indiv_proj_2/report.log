@@ -1,0 +1,1278 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.17)  25 SEP 2024 00:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/ari/Desktop/Project 3/report.tex"
+(/home/ari/Desktop/Project 3/report.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip49
+\@affilsep=\skip50
+\c@Maxaffil=\count193
+\c@authors=\count194
+\c@affil=\count195
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box50
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen142
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 19.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (43.49661pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 [[-2.1e+01  0.0e+00  0.0e+00  0.0e+00  0.0e+00 -2.0e+00  0.0e+00 -3.0e+00][] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.0e+00  1.0e-10  0.0e+00  0.0e+00  0.0e+00  0.0e+00 -3.0e+00  0.0e+00][] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.0e+00  0.0e+00  1.0e-10  0.0e+00  0.0e+00 -2.7e+01  0.0e+00  0.0e+00][] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.0e+00  0.0e+00  0.0e+00  1.0e-10  0.0e+00  0.0e+00  0.0e+00  0.0e+00][] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.0e+00  0.0e+00  0.0e+00  0.0e+00  1.0e-10  0.0e+00  0.0e+00  0.0e+00][] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 2.0e+00  0.0e+00  2.7e+01  0.0e+00  0.0e+00  0.0e+00  0.0e+00  0.0e+00][] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.0e+00  3.0e+00  0.0e+00  0.0e+00  0.0e+00  0.0e+00  0.0e+00  0.0e+00][] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.0e+00  0.0e+00  0.0e+00  0.0e+00  0.0e+00  0.0e+00  0.0e+00  0.0e+00]][] 
+ []
+
+
+Overfull \hbox (48.74657pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ===========================================================================[] 
+ []
+
+[2]
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 nabla f_k = [-0.34567901  0.          0.          0.          0.        ][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  4.57247371e-12  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  3.26847195e-11  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  4.57247371e-12[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.33333333  0.          0.          0.          0.        ]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -6.66666667e-01 -0.00000000e+00 -3.33333333e-01][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  1.04572474e-10  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00 -2.38271605e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  1.32684719e-10  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -1.70320073e+01 -0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  1.04572474e-10[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 1.04572474e-10 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 6.66666667e-01  0.00000000e+00  1.70320073e+01  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  2.38271605e+00  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 -0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.33333333e-01  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ===================================================================[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 nabla f_k = [472.99700249   0.          -0.          -0.          -0.        ][] 
+ []
+
+[3]
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  1.43119652e-12  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  9.83600676e-12 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00  1.43119652e-12[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [23.14814815  0.          0.          0.          0.        ]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  5.55555556e+00 -0.00000000e+00 -2.31481481e+01][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  1.01431197e-10  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00 -2.29085864e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  1.09836007e-10  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -1.57440999e+01 -0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  1.01431197e-10[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 1.01431197e-10 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [-5.55555556e+00  0.00000000e+00  1.57440999e+01  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  2.29085864e+00  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 -0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 2.31481481e+01  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ===================================================================[] 
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 nabla f_k = [62.54705902  0.         -0.         -0.         -0.        ][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  4.28442276e-12  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+[4]
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  2.54981854e-11 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00  4.28442276e-12[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [10.77366456  0.          0.          0.          0.        ]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  3.79010370e+00 -0.00000000e+00 -1.07736646e+01][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  1.04284423e-10  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00 -1.98379003e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  1.25498185e-10  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -1.18062686e+01 -0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  1.04284423e-10[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 1.04284423e-10 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [-3.79010370e+00  0.00000000e+00  1.18062686e+01  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  1.98379003e+00  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 -0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 1.07736646e+01  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ===================================================================[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 nabla f_k = [ 8.2454543  0.        -0.        -0.        -0.       ][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -1.15979714e-12  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00 -7.09219698e-12 -0.00000000e+00[] 
+ []
+
+[5]
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00 -1.15979714e-12[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 5.51772815  0.          0.          0.          0.        ]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  2.71237366e+00 -0.00000000e+00 -5.51772815e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  9.88402029e-11  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00 -2.03834411e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  9.29078030e-11  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -1.24645401e+01 -0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  9.88402029e-11[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 9.88402029e-11 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [-2.71237366e+00  0.00000000e+00  1.24645401e+01  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  2.03834411e+00  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 -0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 5.51772815e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ===================================================================[] 
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 nabla f_k = [ 0.98441914  0.         -0.         -0.         -0.        ][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -5.09897784e-13  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00 -3.17036310e-12 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00 -5.09897784e-13[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00  0.00000000e+00[] 
+ []
+
+[6]
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.53400963  0.          0.          0.          0.        ]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  2.17071713e+00 -0.00000000e+00 -3.53400963e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  9.94901022e-11  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00 -2.07254813e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  9.68296369e-11  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -1.28863673e+01 -0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  9.94901022e-11[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 9.94901022e-11 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [-2.17071713e+00  0.00000000e+00  1.28863673e+01  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  2.07254813e+00  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 -0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.53400963e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ===================================================================[] 
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 nabla f_k = [ 0.05999595  0.         -0.         -0.         -0.        ][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -1.05608728e-13  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00 -6.58863964e-13 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00 -1.05608728e-13[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00  0.00000000e+00[] 
+ []
+
+[7]
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.0393507   0.          0.          0.          0.        ]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  2.01307416e+00 -0.00000000e+00 -3.03935070e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  9.98943913e-11  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00 -2.07957549e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  9.93411360e-11  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -1.29739027e+01 -0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  9.98943913e-11[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 9.98943913e-11 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [-2.01307416e+00  0.00000000e+00  1.29739027e+01  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  2.07957549e+00  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 -0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.03935070e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ===================================================================[] 
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 nabla f_k = [ 0.00038132  0.         -0.         -0.         -0.        ][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -7.73628866e-15  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00 -4.82763134e-14 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00 -7.73628866e-15[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00  0.00000000e+00[] 
+ []
+
+[8]
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.00025419  0.          0.          0.          0.        ]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  2.00008473e+00 -0.00000000e+00 -3.00025419e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  9.99922637e-11  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00 -2.08008067e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  9.99517237e-11  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -1.29802068e+01 -0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  9.99922637e-11[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 9.99922637e-11 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [-2.00008473e+00  0.00000000e+00  1.29802068e+01  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  2.08008067e+00  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 -0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.00025419e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ===================================================================[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 nabla f_k = [ 1.61514622e-08  0.00000000e+00 -0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -4.85911379e-17  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00 -3.03220920e-16 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00 -4.85911379e-17[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -0.00000000e+00 -0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.00000001  0.          0.          0.          0.        ]][] 
+ []
+
+[9]
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  2.00000000e+00 -0.00000000e+00 -3.00000001e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  9.99999514e-11  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00 -2.08008382e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  9.99996968e-11  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -1.29802461e+01 -0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  9.99999514e-11[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 9.99999514e-11 -0.00000000e+00  0.00000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [-2.00000000e+00  0.00000000e+00  1.29802461e+01  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00  2.08008382e+00  0.00000000e+00 -0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 -0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 [ 3.00000001e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 438--438
+[]    \OT1/cmtt/m/n/10 0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ===================================================================[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 x* = [-1.          0.          2.08008382  0.          0.        ][] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 438--438
+[]\OT1/cmtt/m/n/10 ==================================================================[] 
+ []
+
+[10]
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 556--556
+[]\OT1/cmtt/m/n/10 ======================================================================[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 556--556
+[]\OT1/cmtt/m/n/10 [[ 2.43062500e+03 -5.00000000e+02 -2.50000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [-5.00000000e+02  7.53625000e+02  3.35287353e-14  1.00000000e+00][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [ 2.50000000e+00 -3.35287353e-14  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -1.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 556--556
+[]\OT1/cmtt/m/n/10 ======================================================================[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 556--556
+[]\OT1/cmtt/m/n/10 [[ 1.45063750e+03 -4.10000000e+02 -2.05000000e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [-4.10000000e+02  3.87887500e+02  9.00439162e-18  1.00000000e+00][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [ 2.05000000e+00 -9.00439162e-18  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -1.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+[11]
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 556--556
+[]\OT1/cmtt/m/n/10 ======================================================================[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 556--556
+[]\OT1/cmtt/m/n/10 [[ 1.58808068e+03 -4.00121951e+02 -2.00060976e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [-4.00121951e+02  5.85348859e+02  9.00439162e-18  1.00000000e+00][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [ 2.00060976e+00 -9.00439162e-18  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -1.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 556--556
+[]\OT1/cmtt/m/n/10 ======================================================================[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 556--556
+[]\OT1/cmtt/m/n/10 [[ 1.60176071e+03 -4.00000019e+02 -2.00000009e+00 -0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [-4.00000019e+02  5.99760600e+02 -1.66968035e-16  1.00000000e+00][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [ 2.00000009e+00  1.66968035e-16  0.00000000e+00  0.00000000e+00][] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 556--556
+[]    \OT1/cmtt/m/n/10 [ 0.00000000e+00 -1.00000000e+00  0.00000000e+00  0.00000000e+00]][] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 556--556
+[]\OT1/cmtt/m/n/10 ======================================================================[] 
+ []
+
+[12]
+Overfull \hbox (27.74675pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/10 Lagrange multipliers: [-3.41131627e+16 -1.90764484e+16 -7.33276394e+15][] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/10 Lagrange multipliers: [3.31944071e+16 3.32079329e+16 2.16698969e+16][] 
+ []
+
+
+Overfull \hbox (27.74675pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/10 Lagrange multipliers: [ 2.95833335e+17  1.77500001e+17 -8.13541672e+16][] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 589--589
+[]\OT1/cmtt/m/n/10 /tmp/ipykernel_3421524/3342502933.py:60: LinAlgWarning: Ill-conditioned matrix[] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 612--612
+[]    \OT1/cmtt/m/n/10 [  3.01351351  12.06756757  -3.77027027  14.21621622   8.48648649[] 
+ []
+
+[13]
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 612--612
+[]      \OT1/cmtt/m/n/10 -9.18918919  -3.60810811  -6.35135135 -10.40540541  -7.93243243][] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 612--612
+[]    \OT1/cmtt/m/n/10 [  3.01351351  12.06756757  -3.77027027  14.21621622   8.48648649[] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 612--612
+[]      \OT1/cmtt/m/n/10 -9.18918919  -3.60810811  -6.35135135 -10.40540541  -7.93243243][] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 +----------------------+-----------------------------------------------------+[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 |        Metric        |                        Value                        |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 +----------------------+-----------------------------------------------------+[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 | Number of iterations |                          5                          |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 |    Final iterate     | [0.   0.   0.5  0.   0.   0.5  0.25 0.   0.75 0.  ] |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 |  Stopping criteria   |                Optimal solution found               |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 |     Running time     |                   0.000828 seconds                  |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 +----------------------+-----------------------------------------------------+[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 +----------------------+-----------------------------------------------------+[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 |        Metric        |                        Value                        |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 +----------------------+-----------------------------------------------------+[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 | Number of iterations |                          5                          |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 |    Final iterate     | [0.   0.   0.5  0.   0.   0.5  0.25 0.   0.75 0.  ] |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 |  Stopping criteria   |                Optimal solution found               |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 |     Running time     |                   0.000249 seconds                  |[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 637--637
+[]\OT1/cmtt/m/n/10 +----------------------+-----------------------------------------------------+[] 
+ []
+
+[14] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 1364 strings out of 480194
+ 22008 string characters out of 5893742
+ 332400 words of memory out of 5000000
+ 19355 multiletter control sequences out of 15000+600000
+ 473375 words of font info for 42 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 55i,5n,62p,242b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on report.pdf (14 pages, 144831 bytes).
+PDF statistics:
+ 110 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
